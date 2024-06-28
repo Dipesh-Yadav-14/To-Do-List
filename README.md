@@ -32,19 +32,4 @@
 
 <br>
 
-**UI**
-* Login Page
-<img src="https://github.com/Aniike-t/ToDo-Web-App/blob/main/ToDoAPP/Screenshots/LoginPage.png" height="60%" width="60%" >
 
-* Homepage
-<img src="https://github.com/Aniike-t/ToDo-Web-App/blob/main/ToDoAPP/Screenshots/Homepage.png" height="60%" width="60%" >
-
-* Notes Page
-<img src="https://github.com/Aniike-t/ToDo-Web-App/blob/main/ToDoAPP/Screenshots/notes2.png" height="60%" width="60%" >
-
-* Different Background Themes
-<img src="https://github.com/Aniike-t/ToDo-Web-App/blob/main/ToDoAPP/Screenshots/bgocean.png" height="60%" width="60%" >
-<img src="https://github.com/Aniike-t/ToDo-Web-App/blob/main/ToDoAPP/Screenshots/bgpurple.png" height="60%" width="60%" >
-
-* Notification
-<img src="https://github.com/Aniike-t/ToDo-Web-App/blob/main/ToDoAPP/Screenshots/Desktopnotification.png" height="40%" width="40%" >
